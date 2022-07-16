@@ -40,7 +40,7 @@ int main(){
     //int num = 123456789;
     //int mod;
     //func(num,0,num);
-    //reverse(n);
+    reverse(n);
   //  cout<<num;
   return 0;
     
